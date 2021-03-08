@@ -49,4 +49,6 @@ OBIS	in OBIS GSL polygon
 Brunel	in Brunel et al. 1998
 IML	in IML collection
 pas_en_GSL	not in GSL
-GSLMF	marine fauna in GSL checklist in ResearchGate![image](https://user-images.githubusercontent.com/5929928/110317388-16f9cd80-7fda-11eb-833c-b9a68f90e68d.png)
+GSLMF	marine fauna in GSL checklist in ResearchGate
+
+![image](https://user-images.githubusercontent.com/5929928/110317388-16f9cd80-7fda-11eb-833c-b9a68f90e68d.png)
