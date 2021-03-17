@@ -1,6 +1,6 @@
 ---
 title: "IML Taxon list"
-author: "Claude Nozéeres"
+author: "Claude Nozères"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: html_document
 ---
