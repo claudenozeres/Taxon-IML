@@ -1,0 +1,17 @@
+---
+title: "IML Taxon list"
+author: "Claude Nozéeres"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r,results='asis',echo=FALSE}
+library(knitr)
+tl <- read.csv("../Taxon-IML.csv")
+tab <- kable(tl[1L:100L,],caption="## IML Taxon Table")
+tab
+```
